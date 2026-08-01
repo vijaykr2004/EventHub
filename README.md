@@ -3,6 +3,9 @@
 A full-stack Event Management System built using the MERN Stack. The application allows users to browse events, register for events, cancel registrations, and manage their registered events through a personalized dashboard.
 
 ## 🌐 Live Demo
+Live Demo : https://evennthub.netlify.app/
+
+backend= https://eventhub-yp5a.onrender.com
 
 
 ---
